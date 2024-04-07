@@ -4,11 +4,11 @@ import './App.css'
 function App() {
   return (
     <>
-      <greet/>
+      <Greet/>
     </>
   )
 }
-function greet(){
+function Greet(){
   return(
     <div>
       <h1>Welcome to react</h1>
